@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naveen+Pinumalla;DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+Specialist;Infrastructure+as+Code+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naveen+Pinumalla;DevOps+Engineer" />
 </h1>
 
 ## 🚀 About Me  
