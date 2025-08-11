@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naveen+Pinumalla;DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+Specialist;Infrastructure+as+Code+%7C+Kubernetes" />
 </h1>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
-
----
-
 ## 🚀 About Me  
 💼 DevOps Engineer passionate about **Cloud Platforms, CI/CD, Container Orchestration, and Infrastructure as Code**.  
 ⚡ I love automating workflows, optimizing deployments, and ensuring secure, scalable infrastructure.
