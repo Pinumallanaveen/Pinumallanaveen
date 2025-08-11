@@ -49,14 +49,14 @@
 
 ## 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinumallanaveen&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinumallanaveen&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinumallanaveen&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinumallanaveen&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 <p align="center">
   <a href="mailto:naveenp5792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/naveen-pinumalla-5655a3235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Pinumallanaveen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/pinumallanaveen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
