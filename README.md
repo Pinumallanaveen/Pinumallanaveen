@@ -1,7 +1,7 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Naveen+Pinumalla;🚀+DevOps+Engineer;☁️+Cloud+Enthusiast;⚡+Automation+Expert;🛠️+CI%2FCD+Specialist;📦+Kubernetes+%7C+IaC" alt="Typing SVG" />
-</p>
+<!-- Header Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naveen+Pinumalla;DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+Specialist;Infrastructure+as+Code+%7C+Kubernetes" />
+</h1>
 
 ## 🚀 About Me  
 💼 DevOps Engineer passionate about **Cloud Platforms, CI/CD, Container Orchestration, and Infrastructure as Code**.  
